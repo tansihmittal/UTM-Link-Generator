@@ -1,0 +1,21 @@
+Shotcut.in Plugin License Agreement
+
+This plugin, exclusively developed by Shotcut.in, is subject to the following license agreement:
+
+Usage Restriction: You can use it however you want. Make sure to give Shotcut.in a shoutout.
+
+Ownership: Shotcut.in retains all rights, title, and interest in and to the plugin, including all intellectual property rights. This license does not grant you any rights to use Shotcut.in's name, logo, or trademarks.
+
+Enforcement: Any unauthorized distribution, reproduction, modification, or use of this plugin will be considered a violation of intellectual property rights and may result in legal action being taken against the offending party.
+
+By accessing or attempting to download this plugin, you acknowledge and agree to be bound by the terms of this license agreement. If you do not agree with these terms, you are not authorized to access or use the plugin.
+
+For inquiries regarding licensing or usage permissions, please contact Shotcut.in at support@shotcut.in.
+
+This license agreement is effective as of the date of first access to the plugin and shall remain in effect until terminated by Shotcut.in.
+
+
+
+
+
+
